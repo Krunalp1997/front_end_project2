@@ -1,0 +1,32 @@
+
+.navbar ul li{
+  list-style:none;
+  float:right;
+  padding:10px;
+  
+  weight:500px;
+  background-color:none;
+}
+.navbar ul li a:hover{
+  text-decoration:none;
+  color:black;
+  font-family:italic;
+  font-size:20px;
+}
+body,html{
+  background-image:url("ella-olsson-oPBjWBCcAEo-unsplash.jpg");
+}
+#head{
+  float:left;
+  padding:20px;
+  font-family:cursive;
+  color:lightcoral;
+  
+}
+table{
+  margin-left:auto;
+  margin-right:auto;
+  height:100%
+  weight:100px;
+  }
+

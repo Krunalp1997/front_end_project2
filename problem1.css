@@ -1,0 +1,32 @@
+body,html{
+  height:100%;
+}
+.parallax{
+  background-image:url('img_parallax.jpg');
+  height: 40%; 
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.para2{
+   background-image:url('img_parallax3.jpg');
+  height: 40%; 
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.para3{
+  background-image:url("par.image.jpg");
+  height:30%;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
